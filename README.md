@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juangpartida
 - 👀 I’m interested in Software & Mobile Application Development
-- 🌱 I’m currently learning Python & DComputer Architecture and Assembly Language 
+- 🌱 I’m currently learning Python & Computer Architecture and Assembly Language 
 - 💞️ I’m looking to collaborate on iOS based apps or applications written in Python
 - 📫 How to reach me via email @ juangpartida@protonmail.com
