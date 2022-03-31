@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software & Mobile Application Development
 - 🌱 I’m currently learning Python & Computer Architecture and Assembly Language 
 - 💞️ I’m looking to collaborate on iOS based apps or applications written in Python
-- 🕹️ Interests include: Arsenal FC, Arctic Monkeys, Anime (and Manga), Audius & BAT Enthusiast, and Bernese Dogs!
+- 🕹️ Interests include: Arsenal FC, Arctic Monkeys, Anime (and Manga), Audius, BAT Enthusiast, and Bernese Dogs!
 - 📫 How to reach me via email @ juangpartida@protonmail.com
