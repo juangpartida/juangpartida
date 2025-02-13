@@ -1,13 +1,10 @@
-<!-- Backdrop (Space Theme) -->
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" width="100%" alt="Space Backdrop">
-</p>
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-<h1 align="center">👋 Hey, I'm Juan Guillermo Partida</h1>
+# 🚀 Hey, I'm Juan Guillermo Partida
 
-<p align="center">
-  <strong>Aspiring Software Engineer</strong> | <strong>Python & Next.js Enthusiast</strong> | <strong>Tech Explorer</strong> 🚀
-</p>
+**Aspiring Software Engineer** | **Python & Next.js Enthusiast** | **Tech Explorer** 🌌  
+
+</div>
 
 ---
 
@@ -56,10 +53,4 @@
   <img src="https://img.shields.io/badge/-Anime-F85D3D?style=for-the-badge&logo=funimation&logoColor=white" />
   <img src="https://img.shields.io/badge/-Manga-FFCC00?style=for-the-badge&logo=manga&logoColor=black" />
   <img src="https://img.shields.io/badge/-Bernese%20Dogs-795548?style=for-the-badge&logo=pets&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/qPOzNLl.gif" width="40%" alt="Astronaut in Space">
 </p>
