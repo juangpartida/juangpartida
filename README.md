@@ -1,56 +1,56 @@
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-# 🚀 Hey, I'm Juan Guillermo Partida
+# Hey, I'm Juan Guillermo Partida
 
-**Aspiring Software Engineer** | **Python & Next.js Enthusiast** | **Tech Explorer** 🌌  
+**Aspiring Software Engineer** | **Python & Next.js Enthusiast** | **Tech Explorer**
 
 </div>
 
 ---
 
-### 🌌 **About Me**
-- 🔭 Passionate about **Software Engineering** & **Web Development**  
-- 🌱 Currently learning **Python**, **Next.js**, and **Computer Architecture**  
-- 💡 Open to collaborations on **Python-based** projects & **Next.js** applications  
-- 🎮 Interests: **Arsenal FC**, **Arctic Monkeys**, **Anime (Manga)**, and **Bernese Dogs 🐶**  
+### About Me
+- Passionate about **Software Engineering** and **Web Development**
+- Currently learning **Python**, **Next.js**, and **Computer Architecture**
+- Open to collaborating on **Python** or **Next.js** projects
+- Interests: **Arsenal FC**, **Arctic Monkeys**, **Anime/Manga**, and **Bernese Dogs**
 
 ---
 
-### 🔧 **Tech Stack**
+### Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
-### 📫 **Connect with Me**
-📩 **Email:** [juangpartida@protonmail.com](mailto:juangpartida@protonmail.com)  
-💼 **LinkedIn:** [Juan Guillermo Partida](https://www.linkedin.com/in/juan-guillermo-partida/)  
+### Connect with Me
+Email: [juangpartida@protonmail.com](mailto:juangpartida@protonmail.com)  
+LinkedIn: [Juan Guillermo Partida](https://www.linkedin.com/in/juan-guillermo-partida/)
 
 ---
 
-### 🌟 **GitHub Stats**
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juangpartida&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🚀 **Top Languages**
+### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangpartida&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎮 **Fun Extras**
+### Extras
 <p align="center">
-  <img src="https://img.shields.io/badge/-Arsenal%20FC-DB0007?style=for-the-badge&logo=arsenal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Anime-F85D3D?style=for-the-badge&logo=funimation&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Manga-FFCC00?style=for-the-badge&logo=manga&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Bernese%20Dogs-795548?style=for-the-badge&logo=pets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arsenal%20FC-DB0007?style=for-the-badge&logo=arsenal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anime-F85D3D?style=for-the-badge&logo=funimation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manga-FFCC00?style=for-the-badge&logo=manga&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bernese%20Dogs-795548?style=for-the-badge&logo=pets&logoColor=white" />
 </p>
