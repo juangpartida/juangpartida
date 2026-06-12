@@ -2,7 +2,7 @@
 
 # Hey, I'm Juan Guillermo Partida
 
-**Aspiring Software Engineer** | **Python & Next.js Enthusiast** | **Tech Explorer**
+| **Python & Next.js Enthusiast** | **Tech Explorer**
 
 </div>
 
